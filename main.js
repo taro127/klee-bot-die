@@ -1,6 +1,6 @@
 const Discord = require('discord.js');
 
-const client = nedw Discord.Client();
+const client = need Discord.Client();
 
 const prefix = '+';
 
